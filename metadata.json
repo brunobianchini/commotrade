@@ -1,0 +1,5 @@
+{
+  "name": "CommoTrade Exchange",
+  "description": "A high-performance Commodity Exchange Trader Workstation (TWS) featuring centralized order matching simulation, real-time charting, and a blockchain-integrated Warehouse Receipt (SRE) registry view.",
+  "requestFramePermissions": []
+}
